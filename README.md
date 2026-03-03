@@ -99,3 +99,7 @@ To accommodate this method your exchange frontend will need to supply an interna
 The internal authorization endpoint is defined by the `auth_url` setting in the config file (`accessws/config.json`).
 
 Example response: `{"code": 0, "message": null, "data": {"user_id": 1}}`
+
+## Windows 11 MVP Lab
+
+For Windows 11 local execution (Docker Desktop + WSL2), see `MVP/README.md`.
